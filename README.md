@@ -4,12 +4,12 @@
 
 ### Hello! I'm [MC-HA](https://github.com/MC-HA) 👋
 
-I am a **future Computer Science PhD** with a solid foundation in **mathematics**, key certifications in **LLMs**, **AI Forecasting**, **Full Stack Development**, and experience in **Data Science**. My profile is a fusion of software engineering and research, with a focus on applying complex algorithms and developing across multiple platforms.
+I am a **future Computer Science PhD** with a strong background in **mathematics**, key certifications in **LLMs**, **AI Forecasting**, **Full Stack Development**, **Data Science**, and a specialization in **Blockchain and Quantitative Finance**. My profile is a fusion of software engineering, research, artificial intelligence, and a deep understanding of distributed systems and risk markets.
 
-I am currently deepening my knowledge in **LLM quantization**, **Zero-Knowledge Proofs (ZK proofs)** in blockchain, and perfecting my skills in **high-performance computing**. My goal is to contribute to scientific and technological advancement by applying academic theory to real-world challenges.
+I am currently deepening my knowledge in **LLM quantization**, **Zero-Knowledge Proofs (ZK proofs)** in blockchain, and perfecting my skills in **high-performance computing**. My goal is to contribute to scientific and technological advancement by applying theory to real-world challenges, from information technology to decentralized finance.
 
 - 🎓 Actively seeking opportunities for a **PhD in Computer Science**.
-- 💡 Interested in research projects involving **AI, MLOps, Data Science, and Blockchain**.
+- 💡 Interested in research projects involving **AI, MLOps, Data Science, Blockchain, and Cryptography**.
 - 🌐 Versatile development skills on **Windows, Linux, and macOS**.
 - ✉️ If you want to collaborate or connect, feel free to **[contact me](mailto:your-email@example.com)**.
 
@@ -36,19 +36,26 @@ I am currently deepening my knowledge in **LLM quantization**, **Zero-Knowledge 
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MLflow&color=00938C&logo=MLflow&logoColor=FFFFFF&label=" />
     </td>
     <td align="center" width="200">
+      <strong>Blockchain & Quantitative Finance</strong><br>
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=5D4F85&logo=solidity&logoColor=FFFFFF&label=" /><br>
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label=" /><br>
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin&color=F7931A&logo=Bitcoin&logoColor=FFFFFF&label="><br>
+      <img src="https://img.shields.io/badge/Risk_Investments-Skills-informational?style=for-the-badge&logo=investing.com&logoColor=white" />
+    </td>
+    <td align="center" width="200">
       <strong>Programming</strong><br>
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" /><br>
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=" /><br>
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=" />
     </td>
+  </tr>
+  <tr>
     <td align="center" width="200">
       <strong>Web Development</strong><br>
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" /><br>
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" /><br>
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=" />
     </td>
-  </tr>
-  <tr>
     <td align="center" width="200">
       <strong>DevOps & Cloud</strong><br>
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=" /><br>
@@ -56,16 +63,10 @@ I am currently deepening my knowledge in **LLM quantization**, **Zero-Knowledge 
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" />
     </td>
     <td align="center" width="200">
-      <strong>Operating Systems</strong><br>
+      <strong>Systems & Databases</strong><br>
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D4&logo=Windows&logoColor=FFFFFF&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=" />
-    </td>
-    <td align="center" width="200">
-      <strong>Databases</strong><br>
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" />
     </td>
   </tr>
 </table>
