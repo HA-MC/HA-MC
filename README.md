@@ -30,14 +30,14 @@ I'm currently deepening my knowledge in:
   <img src="https://img.shields.io/badge/Full_Stack-Certified-green?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-### Key Skills
+## Key Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Science-Skills-lightgrey?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Competitive_Programming-Skills-yellow?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
-## Skills & Technologies
+## Technologies
 
 <p align="center">
   <table>
@@ -57,7 +57,9 @@ I'm currently deepening my knowledge in:
       <td align="center" width="200">
         <strong>DevOps & Cloud</strong><br>
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=" /><br>
+        <!--
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=" /><br>
+        -->
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" />
       </td>
       <td align="center" width="200">
@@ -72,7 +74,7 @@ I'm currently deepening my knowledge in:
 
 ---
 
-### Áreas de Enfoque y Exploración 🔭
+## Area of focus and exploration 🔭
 
 <p align="center">
   <table>
