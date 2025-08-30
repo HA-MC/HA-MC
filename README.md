@@ -37,51 +37,62 @@ I'm currently deepening my knowledge in:
   <img src="https://img.shields.io/badge/Competitive_Programming-Skills-yellow?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
-## Skills & Technologies :hammer_and_wrench:
+## Skills & Technologies
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <strong>AI & MLOps</strong><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MLflow&color=00938C&logo=MLflow&logoColor=FFFFFF&label=" />
-    </td>
-    <td align="center" width="200">
-      <strong>Blockchain & Quantitative Finance</strong><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=5D4F85&logo=solidity&logoColor=FFFFFF&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin&color=F7931A&logo=Bitcoin&logoColor=FFFFFF&label="><br>
-      <img src="https://img.shields.io/badge/Risk_Investments-Skills-informational?style=for-the-badge&logo=investing.com&logoColor=white" />
-    </td>
-    <td align="center" width="200">
-      <strong>Programming</strong><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <strong>Web Development</strong><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=" />
-    </td>
-    <td align="center" width="200">
-      <strong>DevOps & Cloud</strong><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" />
-    </td>
-    <td align="center" width="200">
-      <strong>Systems & Databases</strong><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" /><br>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <strong>Programming</strong><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" /><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=" /><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=" />
+      </td>
+      <td align="center" width="200">
+        <strong>Web Development</strong><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" /><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" /><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=" />
+      </td>
+      <td align="center" width="200">
+        <strong>DevOps & Cloud</strong><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=" /><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=" /><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" />
+      </td>
+      <td align="center" width="200">
+        <strong>Systems & Databases</strong><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" /><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" /><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+### Áreas de Enfoque y Exploración 🔭
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <strong>AI & MLOps</strong><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=" /><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=" /><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MLflow&color=00938C&logo=MLflow&logoColor=FFFFFF&label=" />
+      </td>
+      <td align="center" width="200">
+        <strong>Blockchain & Quantitative Finance</strong><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=5D4F85&logo=solidity&logoColor=FFFFFF&label=" /><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label=" /><br>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin&color=F7931A&logo=Bitcoin&logoColor=FFFFFF&label="><br>
+        <img src="https://img.shields.io/badge/Risk_Investments-Skills-informational?style=for-the-badge&logo=investing.com&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
