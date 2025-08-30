@@ -2,26 +2,38 @@
   <img alt="Animated GIF of a brain with circuits, representing AI and computing." src="https://user-images.githubusercontent.com/70419764/178626489-c8a1827b-19f0-40f5-9827-9f26f4e7bbf2.gif" width="100%"/>
 </p>
 
-### Hello! I'm [MC-HA](https://github.com/MC-HA) 👋
+### Hello! I'm [HA-MC](https://github.com/HA-MC) 👋
 
-I am a **future Computer Science PhD** with a strong background in **mathematics**, key certifications in **LLMs**, **AI Forecasting**, **Full Stack Development**, **Data Science**, and a specialization in **Blockchain and Quantitative Finance**. My profile is a fusion of software engineering, research, artificial intelligence, and a deep understanding of distributed systems and risk markets.
+Hello! I'm technology enthusiast with a background in mathematics, specializing in the exciting intersection of research and **Artificial Intelligence**. I'm dedicated to expanding my expertise in key areas of technology, including:
 
-I am currently deepening my knowledge in **LLM quantization**, **Zero-Knowledge Proofs (ZK proofs)** in blockchain, and perfecting my skills in **high-performance computing**. My goal is to contribute to scientific and technological advancement by applying theory to real-world challenges, from information technology to decentralized finance.
+- LLMs and AI Forecasting
+- Full Stack Development
+- Data Science
+- Distributed Systems & Risk Markets
+- Blockchain & Quantitative Finance
 
-- 🎓 Actively seeking opportunities for a **PhD in Computer Science**.
-- 💡 Interested in research projects involving **AI, MLOps, Data Science, Blockchain, and Cryptography**.
-- 🌐 Versatile development skills on **Windows, Linux, and macOS**.
-- ✉️ If you want to collaborate or connect, feel free to **[contact me](mailto:your-email@example.com)**.
+My goal is to apply my theoretical knowledge to solve real-world challenges, contributing to scientific and technological advancement from information technology to descentralized finance.
+
+I'm currently deepening my knowledge in:
+
+- LLM Quantization
+- Zero-Knowledge Proofs (ZKPs)
+- High-Performance Computing
 
 ---
 
-## Key Certifications :medal:
+## Certificaciones y Habilidades :medal:
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM-Certified-blue?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Forecasting-Certified-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Full_Stack-Certified-green?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Science-Certified-lightgrey?style=for-the-badge&logo=kaggle&logoColor=white" />
+</p>
+
+### Habilidades Clave
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Science-Skills-lightgrey?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Competitive_Programming-Skills-yellow?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
