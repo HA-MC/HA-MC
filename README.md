@@ -72,7 +72,6 @@ I'm currently deepening my knowledge in:
   </table>
 </p>
 
----
 
 ## Area of focus and exploration 🔭
 
