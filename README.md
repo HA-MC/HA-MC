@@ -4,7 +4,7 @@
 
 ### Hello! I'm [HA-MC](https://github.com/HA-MC) 👋
 
-Hello! I'm technology enthusiast with a background in mathematics, specializing in the exciting intersection of research and **Artificial Intelligence**. I'm dedicated to expanding my expertise in key areas of technology, including:
+I'm technology enthusiast with a background in mathematics, specializing in the exciting intersection of research and **Artificial Intelligence**. I'm dedicated to expanding my expertise in key areas of technology, including:
 
 - LLMs and AI Forecasting
 - Full Stack Development
@@ -22,7 +22,7 @@ I'm currently deepening my knowledge in:
 
 ---
 
-## Certificaciones y Habilidades :medal:
+## Certifications 🏅
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM-Certified-blue?style=for-the-badge&logo=openai&logoColor=white" />
@@ -30,7 +30,7 @@ I'm currently deepening my knowledge in:
   <img src="https://img.shields.io/badge/Full_Stack-Certified-green?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-### Habilidades Clave
+### Key Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Science-Skills-lightgrey?style=for-the-badge&logo=kaggle&logoColor=white" />
