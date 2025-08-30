@@ -97,12 +97,16 @@ I'm currently deepening my knowledge in:
 
 ---
 
+<!---
+
 ## Featured Projects :clipboard:
 
 - 🔭 **[Project Name 1]**: Brief description of the project, technologies used (e.g., LLM, Python, Docker). [Link to Repository](https://github.com/MC-HA/example_project1)
 - 🚀 **[Project Name 2]**: Demonstration of Full Stack skills with a focus on databases and DevOps. [Link to Repository](https://github.com/MC-HA/example_project2)
 
 ---
+
+-->
 
 ## My GitHub Stats 📈
 
