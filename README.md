@@ -126,11 +126,13 @@ I'm currently deepening my knowledge in:
   
   -->
   
+  <!--
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MC-HA&theme=dark&background=151515&hide_border=true" />
   <br>
 
   <!--
   <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER/langs/15296813-f111-4f10-b986-e0e68d184000.svg?style=for-the-badge&hide_title=true&border_radius=10" />
   -->
+<!--
 </p>
 -->
