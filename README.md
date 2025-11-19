@@ -108,6 +108,9 @@ I'm currently deepening my knowledge in:
 
 -->
 
+
+
+<!--
 ## My GitHub Stats 📈
 
 <p align="center">
@@ -117,8 +120,6 @@ I'm currently deepening my knowledge in:
   <img src="https://github-readme-stats.vercel.app/api?username=MC-HA&show_icons=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-HA&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   <br>
-
-  
 
   <img src="https://github-profile-trophy.vercel.app/?username=MC-HA&row=2&column=4&theme=dark" />
   <br>
@@ -132,3 +133,4 @@ I'm currently deepening my knowledge in:
   <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER/langs/15296813-f111-4f10-b986-e0e68d184000.svg?style=for-the-badge&hide_title=true&border_radius=10" />
   -->
 </p>
+-->
