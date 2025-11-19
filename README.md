@@ -95,8 +95,6 @@ I'm currently deepening my knowledge in:
   </table>
 </p>
 
----
-
 <!---
 
 ## Featured Projects :clipboard:
